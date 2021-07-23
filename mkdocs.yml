@@ -5,6 +5,7 @@ nav:
 - BinCompare: bincompare.md
 - ByteArray: bytearray.md
 - FTrace: ftrace.md
+- OneGadget: onegadget.md
 - PeekPointers: peekpointers.md
 - RetDec: retdec.md
 - Skeleton: skel.md
